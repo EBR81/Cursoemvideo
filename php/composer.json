@@ -1,0 +1,15 @@
+{
+    "name": "evaristo/cursoemvideo",
+    "autoload": {
+        "psr-4": {
+            "Evaristo\\Cursoemvideo\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evaristo Batista",
+            "email": "evaristo.rocha@gmail.com"
+        }
+    ],
+    "require": {}
+}
